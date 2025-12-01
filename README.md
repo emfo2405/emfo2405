@@ -1,12 +1,11 @@
 Hello, I’m Emma, @emfo2405 👋
 I'm currently studying web development at university and at 
-the moment I'm learning JavaScript and HTML. 
+the moment I'm learning frameworks and wordpress. 
 
 I like:
 * Problem solving
 * Painting
 * Programming
-* Football
 
 How to reach me: emfo2405@student.miun.se
 
